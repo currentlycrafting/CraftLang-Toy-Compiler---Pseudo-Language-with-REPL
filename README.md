@@ -6,17 +6,17 @@
 
 ## Features
 
--   **Variable Management**: Assign and manipulate integers, floats, strings, and expressions. Supports local and global scope.
+-   **Variable Management**: Assign and manipulate integers, floats, strings, and expressions. Supports local and global scope
     
--   **Function Definitions & Calls**: Define functions with parameters, return values, and nested statements. Handles the function call stack.
+-   **Function Definitions & Calls**: Define functions with parameters, return values, and nested statements. Handles the function call stack
     
 -   **Loops & Repeat Statements**: Use `repeat <count> times ... end` loops to execute Abstract Syntax Tree (AST) blocks multiple times
     
--   **Return Statements**: Functions can return values using the `return <expression>` statement.
+-   **Return Statements**: Functions can return values using the `return <expression>` statement
     
--   **Print & Exit Statements**: Print variables or literals to the console. Exit the REPL with `exit` or `exit program`.
+-   **Print & Exit Statements**: Print variables or literals to the console. Exit the REPL with `exit` or `exit program`
     
--   **REPL Mode**: Interactive execution allows live parsing and execution of commands.
+-   **REPL Mode**: Interactive execution allows live parsing and execution of commands
     
 
 ----------
