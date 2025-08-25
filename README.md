@@ -10,7 +10,7 @@
     
 -   **Function Definitions & Calls**: Define functions with parameters, return values, and nested statements. Handles the function call stack.
     
--   **Loops & Repeat Statements**: Use `repeat <count> times ... end` loops to execute Abstract Syntax Tree (AST) blocks multiple times. .
+-   **Loops & Repeat Statements**: Use `repeat <count> times ... end` loops to execute Abstract Syntax Tree (AST) blocks multiple times
     
 -   **Return Statements**: Functions can return values using the `return <expression>` statement.
     
