@@ -1,6 +1,6 @@
 # Pseudo-Lang v1.1 – Instruction-Pipeline Compiler & Runtime | C++20, Boost.Spirit, CMake 
 
-**CraftLang** is a lightweight, experimental pseudo-language compiler written in C++ with a REPL (Read-Eval-Print Loop). It demonstrates key compiler concepts such as **parsing**, **AST construction**, **runtime execution**, and **control structures**. The compiler uses **Boost.Spirit** for parsing and supports variables, functions, loops, return statements, and basic I/O.
+**Pseudo-Lang* is a lightweight, experimental pseudo-language compiler written in C++ with a REPL (Read-Eval-Print Loop). It demonstrates key compiler concepts such as **parsing**, **AST construction**, **runtime execution**, and **control structures**. The compiler uses **Boost.Spirit** for parsing and supports variables, functions, loops, return statements, and basic I/O.
 
 ----------
 
